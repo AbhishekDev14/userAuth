@@ -1,2 +1,2 @@
-APP ID:- 3462028720483410
-Secret Key:- 75dcd5400106759bbf0ec1eca2b00ef6
+APP ID:- 'your facebook app ID'
+Secret Key:- 'your secret key'
