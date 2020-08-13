@@ -1,2 +1,0 @@
-APP ID:- 'your facebook app ID'
-Secret Key:- 'your secret key'
